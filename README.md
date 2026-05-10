@@ -23,6 +23,9 @@ This project demonstrates how Advanced Excel can be used as a business intellige
 
 The Sleep Health and Lifestyle Dataset contains 400 records and 13 variables, offering a holistic view of sleep behavior, stress, physical activity, BMI, blood pressure, and occupational patterns. :contentReference[oaicite:1]{index=1}
 
+<img width="1352" height="758" alt="image" src="https://github.com/user-attachments/assets/b46e6f70-1ae6-43fb-baf6-8c57c65f5c7a" />
+
+
 ---
 
 ## Key Analytical Dimensions
