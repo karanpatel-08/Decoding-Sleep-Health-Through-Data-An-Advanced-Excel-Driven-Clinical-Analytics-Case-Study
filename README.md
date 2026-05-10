@@ -9,22 +9,22 @@
 
 </div>
 
+<img width="1352" height="758" alt="image" src="https://github.com/user-attachments/assets/8e5fcd2c-5f41-4e51-b3ae-054a82522774" />
+
+
 ---
 
 # 📌 Executive Summary
 
 Healthcare analytics is no longer limited to hospitals and research labs. Today, Business Analysts and Data Analysts are expected to translate lifestyle and clinical data into actionable operational insights.
 
-This project demonstrates how Advanced Excel can be used as a business intelligence and analytics tool to analyze sleep health, lifestyle behavior, and cardiovascular indicators. The outcome is a fully interactive dashboard designed for clinical demand and capacity planning, with a specific focus on sleep disorders such as Insomnia and Sleep Apnea. :contentReference[oaicite:0]{index=0}
+This project demonstrates how Advanced Excel can be used as a business intelligence and analytics tool to analyze sleep health, lifestyle behavior, and cardiovascular indicators. The outcome is a fully interactive dashboard designed for clinical demand and capacity planning, with a specific focus on sleep disorders such as Insomnia and Sleep Apnea.
 
 ---
 
 # 📊 Dataset Overview
 
-The Sleep Health and Lifestyle Dataset contains 400 records and 13 variables, offering a holistic view of sleep behavior, stress, physical activity, BMI, blood pressure, and occupational patterns. :contentReference[oaicite:1]{index=1}
-
-<img width="1352" height="758" alt="image" src="https://github.com/user-attachments/assets/b46e6f70-1ae6-43fb-baf6-8c57c65f5c7a" />
-
+The Sleep Health and Lifestyle Dataset contains 400 records and 13 variables, offering a holistic view of sleep behavior, stress, physical activity, BMI, blood pressure, and occupational patterns.
 
 ---
 
@@ -36,7 +36,7 @@ The Sleep Health and Lifestyle Dataset contains 400 records and 13 variables, of
 - Occupation-based lifestyle risk
 - Sleep disorder classification (None, Insomnia, Sleep Apnea)
 
-This dataset is ideal for BA/DA portfolio projects, as it supports segmentation, correlation analysis, KPI reporting, and decision-oriented dashboards. :contentReference[oaicite:2]{index=2}
+This dataset is ideal for BA/DA portfolio projects, as it supports segmentation, correlation analysis, KPI reporting, and decision-oriented dashboards.
 
 ---
 
@@ -47,13 +47,13 @@ From a Business Analyst perspective, the objectives of this analysis were:
 - Identify high-risk population segments for sleep disorders
 - Support clinical workforce and resource planning
 - Uncover relationships between stress, sleep, and cardiovascular health
-- Demonstrate advanced Excel analytics and dashboarding skills :contentReference[oaicite:3]{index=3}
+- Demonstrate advanced Excel analytics and dashboarding skills
 
 ---
 
 # 🧩 Dashboard Design & Structure
 
-The Excel dashboard was designed with stakeholder usability in mind, simulating real-world healthcare reporting environments. :contentReference[oaicite:4]{index=4}
+The Excel dashboard was designed with stakeholder usability in mind, simulating real-world healthcare reporting environments.
 
 ---
 
@@ -75,7 +75,7 @@ The Excel dashboard was designed with stakeholder usability in mind, simulating 
 
 ## 📌 Business Observation
 
-The age-based analysis reveals a strong concentration of sleep disorders in middle-aged populations. :contentReference[oaicite:5]{index=5}
+The age-based analysis reveals a strong concentration of sleep disorders in middle-aged populations.
 
 ---
 
@@ -89,7 +89,7 @@ The age-based analysis reveals a strong concentration of sleep disorders in midd
 
 ## 💡 Business Interpretation
 
-Patients aged 39+ represent the highest demand segment, requiring targeted diagnostic capacity and preventive care planning. :contentReference[oaicite:6]{index=6}
+Patients aged 39+ represent the highest demand segment, requiring targeted diagnostic capacity and preventive care planning.
 
 ---
 
@@ -97,7 +97,7 @@ Patients aged 39+ represent the highest demand segment, requiring targeted diagn
 
 ## 📌 Business Observation
 
-Gender segmentation highlights a noticeable imbalance. :contentReference[oaicite:7]{index=7}
+Gender segmentation highlights a noticeable imbalance.
 
 ---
 
@@ -110,7 +110,7 @@ Gender segmentation highlights a noticeable imbalance. :contentReference[oaicite
 
 ## 💡 BA Interpretation
 
-This pattern indicates potential behavioral, physiological, or reporting differences that should be considered when designing gender-specific wellness programs and outreach strategies. :contentReference[oaicite:8]{index=8}
+This pattern indicates potential behavioral, physiological, or reporting differences that should be considered when designing gender-specific wellness programs and outreach strategies.
 
 ---
 
@@ -118,7 +118,7 @@ This pattern indicates potential behavioral, physiological, or reporting differe
 
 ## 📌 Business Observation
 
-A clear inverse correlation exists between stress levels and sleep duration. :contentReference[oaicite:9]{index=9}
+A clear inverse correlation exists between stress levels and sleep duration.
 
 ---
 
@@ -132,7 +132,7 @@ A clear inverse correlation exists between stress levels and sleep duration. :co
 
 ## 💡 Analytical Value
 
-This insight supports predictive analytics use cases and highlights stress management as a preventive healthcare investment. :contentReference[oaicite:10]{index=10}
+This insight supports predictive analytics use cases and highlights stress management as a preventive healthcare investment.
 
 ---
 
@@ -140,7 +140,7 @@ This insight supports predictive analytics use cases and highlights stress manag
 
 ## 📌 Business Observation
 
-Occupation-based segmentation identifies high-risk professions. :contentReference[oaicite:11]{index=11}
+Occupation-based segmentation identifies high-risk professions.
 
 ---
 
@@ -154,7 +154,7 @@ Occupation-based segmentation identifies high-risk professions. :contentReferenc
 
 ## 💡 Operational Insight
 
-Healthcare professionals themselves represent a high-risk group, emphasizing the need for shift optimization and workload balancing. :contentReference[oaicite:12]{index=12}
+Healthcare professionals themselves represent a high-risk group, emphasizing the need for shift optimization and workload balancing.
 
 ---
 
@@ -162,7 +162,7 @@ Healthcare professionals themselves represent a high-risk group, emphasizing the
 
 ## 📌 Business Observation
 
-When sleep disorders are combined with cardiovascular metrics, significant risk patterns emerge. :contentReference[oaicite:13]{index=13}
+When sleep disorders are combined with cardiovascular metrics, significant risk patterns emerge.
 
 ---
 
@@ -176,13 +176,13 @@ When sleep disorders are combined with cardiovascular metrics, significant risk 
 
 ## 💡 Strategic Takeaway
 
-Sleep disorder screening should be integrated into routine cardiovascular risk assessments. :contentReference[oaicite:14]{index=14}
+Sleep disorder screening should be integrated into routine cardiovascular risk assessments.
 
 ---
 
 # 🧠 Advanced Excel Techniques Used
 
-This project demonstrates practical expertise in: :contentReference[oaicite:15]{index=15}
+This project demonstrates practical expertise in:
 
 - Pivot Tables and Pivot Charts
 - Slicers for dynamic filtering
@@ -192,7 +192,7 @@ This project demonstrates practical expertise in: :contentReference[oaicite:15]{
 - Aggregation functions (`COUNTIFS`, `AVERAGEIFS`)
 - Dashboard UX and layout design
 
-These skills are core expectations for Business Analysts and Data Analysts. :contentReference[oaicite:16]{index=16}
+These skills are core expectations for Business Analysts and Data Analysts.
 
 ---
 
@@ -205,7 +205,7 @@ This case study reflects real BA responsibilities:
 - Designing dashboards for executive stakeholders
 - Applying analytical thinking beyond static reports
 
-Excel is positioned here not as a spreadsheet tool, but as a business intelligence platform. :contentReference[oaicite:17]{index=17}
+Excel is positioned here not as a spreadsheet tool, but as a business intelligence platform.
 
 ---
 
@@ -219,7 +219,7 @@ For aspiring Business Analysts and Data Analysts, it showcases the importance of
 - data storytelling
 - stakeholder-oriented reporting
 
-The project highlights how analytical thinking combined with dashboard design can transform raw healthcare data into actionable clinical intelligence. :contentReference[oaicite:18]{index=18}
+The project highlights how analytical thinking combined with dashboard design can transform raw healthcare data into actionable clinical intelligence.
 
 ---
 
@@ -232,8 +232,6 @@ The project highlights how analytical thinking combined with dashboard design ca
 ✔ Clinical risk analysis  
 ✔ Executive-level healthcare insights  
 ✔ Recruiter-friendly BA/DA portfolio project  
-
----
 
 
 
